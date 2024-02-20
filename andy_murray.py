@@ -2,7 +2,7 @@ import requests
 import networkx as nx
 import matplotlib.pyplot as plt
 
-# Initialize your API credentials
+# Initializing API credentials
 headers = {
     "X-RapidAPI-Key": "c96095ab6fmsh8aef27ede081c79p16bc1djsn06537ad6130c",
     "X-RapidAPI-Host": "twitter-api45.p.rapidapi.com"
